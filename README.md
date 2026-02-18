@@ -2,7 +2,7 @@
 
 A group collaboration framework by **Dr. Simon McCallum** that uses six animal avatars to represent beneficial behaviours in team projects. Built on McClelland's Three Needs Theory and Self-Determination Theory (SDT).
 
-**Website:** [http://103.224.130.189](http://103.224.130.189) (migrating to [six-animals.co.nz](https://six-animals.co.nz) once the domain is registered)
+**Website:**[sixanimals.co.nz](https://sixanimals.co.nz)
 
 ## The Six Animals
 
